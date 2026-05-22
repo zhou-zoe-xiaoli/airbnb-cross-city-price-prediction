@@ -19,4 +19,3 @@ The project shows that tree-based models perform well within cities, but cross-c
 - `models.ipynb`: Initial simple model used as a baseline and workflow check.
 - `model_final.ipynb`: Final modeling notebook with preprocessing, model training, evaluation, and cross-city comparison.
 - `eda.ipynb`: Exploratory data analysis notebook.
-- `eda_insights/`: Saved EDA insights, figures, or summary outputs used to support the report.
